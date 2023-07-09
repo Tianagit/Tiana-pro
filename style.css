@@ -1,0 +1,12 @@
+body{
+    background-image: url("8.jpg");
+}
+#logo img{
+    width: 60px;
+}
+.box img{
+    width:500px;
+}
+.client-item img{
+width: 100px;
+}
